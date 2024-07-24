@@ -1,5 +1,4 @@
-<style>
-{}
+
 .header {
   display: flex;
   flex-direction: row;
@@ -182,9 +181,4 @@ color: white;
   margin-top: 4px;
   border-radius: 17px;
   cursor: pointer;
-}
-
-</style>
-
-
-  
+}  
